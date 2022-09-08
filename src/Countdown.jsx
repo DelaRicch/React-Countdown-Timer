@@ -3,7 +3,9 @@ import './index.css'
 
 const Countdown = () => {
   return (
-    <section>Countdown</section>
+    <section>
+        
+    </section>
   )
 }
 
